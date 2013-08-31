@@ -1,0 +1,38 @@
+"san_fernando_valley.approaching_thunderstorm"
+{
+	"dsp"	"1"
+	"fadetime" "1"
+
+
+
+	"playsoundscape"
+	{
+		"name"	"distant.thunder"
+		"volume" "1"
+	}
+
+}
+
+"san_fernando_valley.lightrain"
+{
+	"dsp"	"1"
+	"fadetime" "1"
+
+
+
+	"playsoundscape"
+	{
+		"name"	"distant.thunder"
+		"volume" "1"
+	}
+
+
+
+//rain soft
+	"playsoundscape" 
+	{
+		"name"	"rain.water.med"
+		"volume" ".6"
+	}
+
+}

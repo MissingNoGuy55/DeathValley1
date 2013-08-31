@@ -1,0 +1,41 @@
+"san_fernando_valley.generic_underground_office"
+{
+
+	"dsp"	"1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"0.8"
+		"wave"		"ambient\spacial_loops\fluorescent_lights_loop.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"wave"		"ambient\tones\roomtone1.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.4"
+		"wave"		"ambient\tones\under1.wav"
+		"pitch"		"100"
+		"attenuation"	"SNDLEVEL_150DB"
+		"position"		"1"
+	}
+
+	"playlooping"
+	{
+		"volume"		"1"
+		"wave"		"ambient\ambience\rainscapes\metal_rainverb_med_loop.wav"
+		"pitch"		"100"
+		"attenuation"	"SNDLEVEL_150DB"
+		"position"		"2"
+	}			
+
+}

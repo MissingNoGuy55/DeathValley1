@@ -1,0 +1,13 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "models/props/rotterdam_house/tilefloor010a"
+	"$surfaceprop" "tile"
+	"%keywords" "c17downtown"
+	"$bumpmap" "models/props/rotterdam_house/tilefloor010a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .56 .56 .56 ]"
+}

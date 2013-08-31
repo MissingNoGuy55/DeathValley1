@@ -1,0 +1,6 @@
+"Sky"
+{
+    "$hdrbasetexture" "skybox/sky_san_fernando_valley_1_hdrdn"
+    "$nofog" 1
+    "$ignorez" 1
+}

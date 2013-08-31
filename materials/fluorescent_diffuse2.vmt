@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+//generic declerations
+	"$halflambert" "1"
+//texturepaths
+	"$basetexture" "fluorescent_diffuse"
+	"$selfillum" "1"
+	"$bumpmap" "fluorescent_normals"
+	"$phongexponenttexture" "fluorescent_specular"	
+//phongdeclars
+	"$phong" "1" 
+	"$phongboost" ".5"	
+	"$phongfresnelranges"	"[.3 .8 9]"
+//rimlightdeclars
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	"$rimlightboost" "1.8"
+//envmapdeclars
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+//envcubemap uses the nearest cubemap in the map, you can also specify a custom cubemap as well 

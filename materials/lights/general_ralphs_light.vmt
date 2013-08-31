@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "lights/general_ralphs_light"
+	"$nocull" 1
+	"$selfillum" 1
+}

@@ -1,0 +1,9 @@
+"DecalModulate"
+{
+"$basetexture" "overlays/sanfernandovalley/ms_dos_ad"
+$surfaceprop default
+$decal 1
+$vertexcolor 1
+$vertexalpha 1
+$translucent 0
+}

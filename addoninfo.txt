@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+     addonSteamAppID		550
+     addontitle			"Death Valley: Part 1"
+     addonversion		1.0
+     addontagline		"The Survivors, trapped in the large suburban region called the San Fernando Valley, attempt to search for rescue that may not exist anymore."
+     addonauthor		"MissingNoGuy55"
+     addonauthorSteamID		"missingnoguy55"
+     addonContent_Campaign	1
+     addonContent_Sound 1
+     addonURL0			"http://steamcommunity.com/sharedfiles/filedetails/?id=121075329"
+ 
+
+     addonDescription        	"The Survivors, trapped in the large suburban region called the San Fernando Valley, attempt to search for rescue that may not exist anymore."
+}

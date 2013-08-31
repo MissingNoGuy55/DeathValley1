@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/loadingscreen_deathvalley"
+	"$translucent" 1
+}

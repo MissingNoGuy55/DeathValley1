@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "models/props/rotterdam_house/woodwall009a"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown,wasteland"
+	"$bumpmap" "models/props/rotterdam_house/woodwall009a_normal"
+}

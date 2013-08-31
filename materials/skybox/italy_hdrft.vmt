@@ -1,0 +1,10 @@
+Sky
+{
+ 
+	// if you didn't:
+	$hdrbasetexture	"skybox/italy_hdrft"
+ 
+	$basetexture		"skybox/italyft"
+
+
+}

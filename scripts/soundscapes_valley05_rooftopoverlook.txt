@@ -1,0 +1,101 @@
+"san_fernando_valley.generic_large_flooded_building"
+{
+
+	"dsp"	"1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		"1"
+		"wave"		"ambient\ambience\crucial_drainage_waterlaps_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_150DB"
+	}
+
+
+	"playlooping"
+	{
+		"volume"		"0.8"
+		"wave"		"ambient\ambience\rainscapes\interior_rain_med_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLVL_85dB"
+	}
+
+/*
+	"playlooping"
+	{
+		"volume"		"0.2"
+		"wave"		"ambient\ambience\rainscapes\metal_rainverb_med_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_30DB"
+		"position"		"1"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.2"
+		"wave"		"ambient\ambience\rainscapes\metal_rainverb_med_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_30DB"
+		"position"		"2"
+	}	
+
+	"playlooping"
+	{
+		"volume"		"0.2"
+		"wave"		"ambient\ambience\rainscapes\metal_rainverb_med_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_30DB"
+		"position"		"3"
+	}	
+
+	"playlooping"
+	{
+		"volume"		"0.2"
+		"wave"		"ambient\ambience\rainscapes\metal_rainverb_med_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_30DB"
+		"position"		"4"
+	}			
+*/
+
+}
+
+"san_fernando_valley.flooded_ceda_tent"
+{
+
+	"dsp"	"0"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"1"
+		"wave"		"ambient\ambience\rain_on_tarp.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_150DB"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.6"
+		"wave"		"ambient\spacial_loops\1b_rainontarp_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_85DB"
+	}
+
+}
+
+"san_fernando_valley.flooded_makeshift_metal_tent"
+{
+	"dsp"	"0"
+	"fadetime"	"1"
+
+	"playlooping"
+	{
+
+		"volume"	"1"
+		"wave"	"ambient\ambience\rainscapes\metalrain_med_loop.wav"
+		"pitch"	"100"
+		"soundlevel" "SNDLEVEL_80DB"
+	}
+}

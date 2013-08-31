@@ -1,0 +1,103 @@
+"san_fernando_valley.maintenance_room"
+{
+
+	"dsp"	"0"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.4"
+		"wave"		"ambient\atmosphere\crucial_indoor1.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"wave"		"ambient\atmosphere\indoor2.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+}
+
+"san_fernando_valley.empty_streets"
+{
+
+	"dsp"	"1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"1.0"
+		"wave"		"ambient\ambience\crucial_empty_street_wind_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.6"
+		"wave"		"ambient\ambience\streetwind01_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+}
+
+"san_fernando_valley.abandoned_duplex"
+{
+
+	"dsp"	"0"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"wave"		"ambient\ambience\crucial_smallroomtone_amb_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.4"
+		"wave"		"ambient\tones\roomtone1.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+}
+
+"san_fernando_valley.indoor_stores"
+{
+
+	"dsp"	"0"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"wave"		"ambient\atmosphere\crucial_indoor1.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"wave"		"ambient\ambience\crucial_club_room_tone.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.9"
+		"wave"		"ambient\ambience\crucial_medroomtone_amb_loop.wav"
+		"pitch"		"100"
+		"soundlevel"	"SNDLEVEL_NONE"
+	}
+
+}

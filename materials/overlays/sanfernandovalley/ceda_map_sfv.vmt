@@ -1,0 +1,5 @@
+"DecalModulate"
+{
+	"$basetexture" "overlays/sanfernandovalley/ceda_map_sfv"
+	"$translucent" 1
+}
